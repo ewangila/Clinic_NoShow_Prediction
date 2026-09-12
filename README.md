@@ -43,8 +43,8 @@ pip install -r requirements.txt
 ```
 ## Usage
 Option 1: Jupyter Notebook (recommended)
-```Bashj
-upyter notebook clinic_analysis.ipynb
+```Bash
+Jupyter notebook clinic_analysis.ipynb
 ```
 Option 2: Python Script
 ```Bash
