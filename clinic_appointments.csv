@@ -1,0 +1,1001 @@
+TimeSlot,BookingMethod,Attended
+Morning,Mobile App,No
+Evening,Web,No
+Afternoon,Mobile App,Yes
+Afternoon,Mobile App,No
+Morning,Phone,Yes
+Morning,Phone,No
+Morning,Mobile App,Yes
+Evening,Phone,No
+Afternoon,Web,No
+Afternoon,Web,No
+Morning,Phone,No
+Evening,Web,Yes
+Evening,Phone,Yes
+Morning,Mobile App,Yes
+Morning,Mobile App,Yes
+Morning,Web,Yes
+Morning,Phone,Yes
+Afternoon,Phone,No
+Morning,Web,Yes
+Morning,Mobile App,No
+Afternoon,Web,Yes
+Morning,Mobile App,No
+Morning,Phone,No
+Morning,Mobile App,Yes
+Afternoon,Web,Yes
+Afternoon,Phone,No
+Morning,Web,Yes
+Afternoon,Web,Yes
+Afternoon,Mobile App,Yes
+Morning,Web,Yes
+Afternoon,Mobile App,Yes
+Morning,Phone,Yes
+Morning,Mobile App,Yes
+Evening,Phone,Yes
+Evening,Mobile App,No
+Evening,Web,Yes
+Morning,Mobile App,No
+Morning,Mobile App,Yes
+Afternoon,Phone,Yes
+Morning,Web,Yes
+Morning,Mobile App,Yes
+Afternoon,Web,Yes
+Morning,Mobile App,Yes
+Evening,Mobile App,Yes
+Morning,Web,Yes
+Afternoon,Mobile App,Yes
+Morning,Web,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Phone,No
+Morning,Web,Yes
+Evening,Mobile App,Yes
+Afternoon,Mobile App,No
+Evening,Phone,Yes
+Evening,Web,Yes
+Afternoon,Mobile App,No
+Evening,Phone,Yes
+Morning,Mobile App,Yes
+Morning,Web,Yes
+Morning,Mobile App,Yes
+Morning,Mobile App,Yes
+Morning,Mobile App,Yes
+Morning,Mobile App,Yes
+Evening,Phone,Yes
+Morning,Phone,No
+Morning,Web,No
+Afternoon,Phone,Yes
+Morning,Phone,Yes
+Evening,Web,Yes
+Morning,Phone,Yes
+Evening,Phone,Yes
+Afternoon,Web,Yes
+Morning,Web,No
+Morning,Web,Yes
+Evening,Mobile App,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Web,Yes
+Afternoon,Web,No
+Morning,Web,Yes
+Morning,Mobile App,No
+Morning,Mobile App,Yes
+Evening,Phone,Yes
+Afternoon,Phone,Yes
+Morning,Web,Yes
+Morning,Mobile App,Yes
+Morning,Mobile App,No
+Morning,Mobile App,Yes
+Afternoon,Web,Yes
+Afternoon,Phone,Yes
+Evening,Web,Yes
+Afternoon,Phone,Yes
+Morning,Phone,No
+Afternoon,Web,No
+Afternoon,Phone,No
+Afternoon,Phone,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Phone,Yes
+Afternoon,Web,Yes
+Morning,Web,No
+Morning,Phone,Yes
+Morning,Mobile App,Yes
+Morning,Mobile App,Yes
+Afternoon,Phone,Yes
+Morning,Phone,Yes
+Afternoon,Web,Yes
+Evening,Phone,Yes
+Morning,Mobile App,Yes
+Morning,Phone,Yes
+Afternoon,Web,No
+Morning,Web,No
+Morning,Web,No
+Morning,Web,No
+Morning,Web,Yes
+Evening,Phone,Yes
+Evening,Phone,Yes
+Afternoon,Phone,Yes
+Evening,Phone,No
+Evening,Web,Yes
+Morning,Mobile App,No
+Evening,Phone,Yes
+Afternoon,Mobile App,Yes
+Evening,Phone,Yes
+Evening,Phone,No
+Morning,Mobile App,Yes
+Morning,Web,Yes
+Morning,Phone,Yes
+Morning,Phone,Yes
+Evening,Phone,Yes
+Evening,Mobile App,Yes
+Morning,Web,Yes
+Afternoon,Mobile App,Yes
+Morning,Mobile App,Yes
+Morning,Web,Yes
+Morning,Mobile App,Yes
+Morning,Web,Yes
+Evening,Phone,Yes
+Morning,Web,Yes
+Afternoon,Phone,No
+Afternoon,Mobile App,Yes
+Morning,Mobile App,Yes
+Evening,Phone,Yes
+Evening,Mobile App,Yes
+Morning,Web,No
+Afternoon,Phone,Yes
+Morning,Mobile App,Yes
+Morning,Phone,Yes
+Morning,Web,Yes
+Afternoon,Web,Yes
+Afternoon,Mobile App,No
+Morning,Web,Yes
+Morning,Phone,Yes
+Evening,Web,Yes
+Morning,Phone,No
+Morning,Phone,Yes
+Afternoon,Web,No
+Evening,Mobile App,Yes
+Morning,Web,Yes
+Afternoon,Phone,Yes
+Afternoon,Phone,Yes
+Morning,Web,Yes
+Afternoon,Mobile App,No
+Morning,Mobile App,Yes
+Afternoon,Phone,Yes
+Afternoon,Phone,Yes
+Afternoon,Mobile App,No
+Morning,Web,No
+Evening,Phone,Yes
+Morning,Phone,No
+Morning,Mobile App,Yes
+Morning,Web,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Web,No
+Morning,Web,Yes
+Afternoon,Web,Yes
+Morning,Phone,Yes
+Afternoon,Mobile App,No
+Morning,Mobile App,Yes
+Afternoon,Web,Yes
+Morning,Phone,Yes
+Evening,Phone,Yes
+Morning,Mobile App,Yes
+Morning,Phone,No
+Morning,Phone,Yes
+Evening,Web,Yes
+Evening,Phone,Yes
+Morning,Web,No
+Afternoon,Mobile App,Yes
+Evening,Phone,Yes
+Afternoon,Mobile App,No
+Afternoon,Mobile App,No
+Morning,Phone,No
+Morning,Phone,No
+Evening,Mobile App,Yes
+Evening,Phone,No
+Afternoon,Web,Yes
+Morning,Web,No
+Morning,Phone,Yes
+Afternoon,Mobile App,No
+Evening,Phone,Yes
+Evening,Phone,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Mobile App,No
+Morning,Web,No
+Morning,Mobile App,Yes
+Evening,Web,Yes
+Afternoon,Mobile App,Yes
+Morning,Phone,Yes
+Morning,Web,No
+Afternoon,Web,Yes
+Morning,Web,Yes
+Morning,Phone,No
+Afternoon,Phone,Yes
+Afternoon,Phone,Yes
+Afternoon,Phone,Yes
+Morning,Phone,Yes
+Afternoon,Web,Yes
+Morning,Phone,Yes
+Morning,Web,Yes
+Afternoon,Phone,No
+Afternoon,Mobile App,Yes
+Evening,Web,No
+Afternoon,Mobile App,Yes
+Afternoon,Web,Yes
+Morning,Mobile App,Yes
+Morning,Phone,Yes
+Morning,Phone,Yes
+Morning,Phone,No
+Evening,Web,Yes
+Morning,Mobile App,Yes
+Evening,Phone,No
+Afternoon,Mobile App,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Phone,Yes
+Afternoon,Phone,Yes
+Afternoon,Mobile App,Yes
+Morning,Phone,Yes
+Afternoon,Phone,No
+Morning,Phone,Yes
+Morning,Web,Yes
+Afternoon,Mobile App,No
+Morning,Mobile App,Yes
+Evening,Web,Yes
+Evening,Mobile App,Yes
+Evening,Phone,No
+Morning,Mobile App,Yes
+Morning,Phone,Yes
+Evening,Web,Yes
+Morning,Phone,Yes
+Evening,Mobile App,No
+Evening,Mobile App,No
+Evening,Mobile App,Yes
+Morning,Web,Yes
+Morning,Web,Yes
+Evening,Mobile App,No
+Morning,Phone,Yes
+Morning,Web,Yes
+Afternoon,Mobile App,Yes
+Evening,Mobile App,Yes
+Afternoon,Web,Yes
+Afternoon,Web,Yes
+Morning,Web,Yes
+Afternoon,Phone,No
+Evening,Phone,Yes
+Morning,Mobile App,Yes
+Afternoon,Web,Yes
+Evening,Phone,Yes
+Afternoon,Web,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Phone,Yes
+Morning,Phone,Yes
+Morning,Phone,Yes
+Evening,Mobile App,Yes
+Evening,Web,No
+Evening,Phone,Yes
+Evening,Mobile App,No
+Afternoon,Web,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Web,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Web,No
+Afternoon,Phone,Yes
+Evening,Web,No
+Morning,Mobile App,Yes
+Morning,Mobile App,Yes
+Morning,Web,Yes
+Afternoon,Phone,Yes
+Morning,Phone,Yes
+Afternoon,Web,Yes
+Afternoon,Web,Yes
+Morning,Mobile App,Yes
+Afternoon,Phone,Yes
+Morning,Web,No
+Morning,Phone,No
+Evening,Web,Yes
+Morning,Web,Yes
+Morning,Phone,Yes
+Afternoon,Web,No
+Afternoon,Web,Yes
+Morning,Mobile App,Yes
+Afternoon,Web,No
+Morning,Web,Yes
+Morning,Web,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Phone,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Mobile App,Yes
+Evening,Phone,Yes
+Afternoon,Mobile App,Yes
+Morning,Phone,No
+Afternoon,Mobile App,Yes
+Morning,Phone,Yes
+Morning,Web,Yes
+Morning,Mobile App,No
+Morning,Mobile App,Yes
+Evening,Mobile App,Yes
+Evening,Mobile App,No
+Afternoon,Web,No
+Morning,Mobile App,Yes
+Morning,Web,No
+Morning,Web,Yes
+Morning,Web,Yes
+Afternoon,Web,Yes
+Afternoon,Phone,Yes
+Afternoon,Phone,Yes
+Morning,Mobile App,Yes
+Evening,Phone,Yes
+Afternoon,Phone,Yes
+Afternoon,Mobile App,No
+Afternoon,Mobile App,Yes
+Morning,Mobile App,Yes
+Morning,Phone,Yes
+Morning,Phone,No
+Afternoon,Mobile App,Yes
+Morning,Web,No
+Morning,Mobile App,Yes
+Morning,Web,Yes
+Morning,Web,Yes
+Evening,Mobile App,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Mobile App,No
+Morning,Phone,Yes
+Afternoon,Web,Yes
+Afternoon,Phone,No
+Morning,Phone,Yes
+Morning,Mobile App,No
+Morning,Phone,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Web,Yes
+Morning,Mobile App,Yes
+Morning,Phone,No
+Afternoon,Phone,Yes
+Afternoon,Mobile App,Yes
+Evening,Mobile App,Yes
+Afternoon,Phone,Yes
+Morning,Web,No
+Morning,Web,Yes
+Afternoon,Mobile App,Yes
+Morning,Web,No
+Afternoon,Phone,Yes
+Evening,Mobile App,No
+Afternoon,Phone,Yes
+Morning,Phone,Yes
+Afternoon,Web,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Mobile App,No
+Evening,Web,Yes
+Morning,Phone,Yes
+Evening,Phone,Yes
+Evening,Phone,Yes
+Morning,Phone,Yes
+Morning,Mobile App,No
+Morning,Mobile App,Yes
+Morning,Web,Yes
+Morning,Web,Yes
+Afternoon,Mobile App,Yes
+Morning,Mobile App,Yes
+Morning,Phone,Yes
+Evening,Phone,No
+Morning,Web,Yes
+Evening,Mobile App,Yes
+Morning,Web,Yes
+Morning,Mobile App,No
+Afternoon,Phone,Yes
+Afternoon,Web,Yes
+Evening,Web,Yes
+Afternoon,Mobile App,Yes
+Evening,Phone,Yes
+Morning,Web,Yes
+Morning,Phone,Yes
+Afternoon,Web,Yes
+Evening,Phone,No
+Evening,Mobile App,No
+Morning,Web,Yes
+Morning,Web,Yes
+Afternoon,Phone,Yes
+Morning,Phone,Yes
+Evening,Web,Yes
+Evening,Mobile App,Yes
+Morning,Phone,Yes
+Afternoon,Phone,No
+Afternoon,Phone,Yes
+Morning,Web,Yes
+Evening,Web,No
+Afternoon,Web,Yes
+Evening,Web,Yes
+Morning,Mobile App,Yes
+Evening,Mobile App,Yes
+Morning,Web,No
+Morning,Mobile App,Yes
+Evening,Phone,Yes
+Morning,Phone,No
+Morning,Phone,No
+Evening,Web,No
+Evening,Phone,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Web,No
+Morning,Mobile App,No
+Morning,Phone,Yes
+Morning,Phone,Yes
+Afternoon,Phone,Yes
+Afternoon,Web,No
+Afternoon,Mobile App,Yes
+Afternoon,Web,Yes
+Morning,Web,Yes
+Afternoon,Phone,Yes
+Morning,Web,No
+Afternoon,Web,Yes
+Morning,Phone,No
+Evening,Web,No
+Morning,Phone,Yes
+Morning,Phone,Yes
+Morning,Phone,Yes
+Afternoon,Phone,No
+Afternoon,Web,Yes
+Morning,Phone,Yes
+Morning,Phone,No
+Afternoon,Web,Yes
+Morning,Web,No
+Evening,Mobile App,Yes
+Afternoon,Web,Yes
+Morning,Web,Yes
+Morning,Mobile App,No
+Evening,Web,Yes
+Morning,Web,No
+Morning,Web,No
+Evening,Web,Yes
+Evening,Mobile App,No
+Evening,Web,Yes
+Afternoon,Web,Yes
+Morning,Mobile App,Yes
+Morning,Phone,No
+Afternoon,Mobile App,Yes
+Afternoon,Phone,Yes
+Morning,Mobile App,Yes
+Evening,Mobile App,Yes
+Morning,Web,Yes
+Afternoon,Phone,No
+Morning,Web,No
+Afternoon,Phone,Yes
+Morning,Mobile App,No
+Morning,Mobile App,Yes
+Morning,Phone,No
+Afternoon,Web,Yes
+Afternoon,Web,Yes
+Afternoon,Web,Yes
+Evening,Web,No
+Morning,Mobile App,Yes
+Morning,Mobile App,Yes
+Evening,Mobile App,Yes
+Morning,Mobile App,Yes
+Evening,Mobile App,Yes
+Morning,Web,Yes
+Evening,Web,No
+Morning,Web,Yes
+Evening,Web,Yes
+Afternoon,Mobile App,Yes
+Evening,Mobile App,No
+Morning,Mobile App,No
+Afternoon,Phone,Yes
+Evening,Web,Yes
+Afternoon,Web,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Web,No
+Afternoon,Web,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Phone,Yes
+Evening,Phone,No
+Morning,Phone,Yes
+Morning,Mobile App,Yes
+Evening,Web,Yes
+Evening,Mobile App,No
+Afternoon,Mobile App,Yes
+Afternoon,Web,Yes
+Morning,Phone,Yes
+Morning,Phone,Yes
+Afternoon,Mobile App,Yes
+Morning,Phone,Yes
+Afternoon,Mobile App,Yes
+Morning,Mobile App,Yes
+Evening,Web,Yes
+Evening,Web,No
+Afternoon,Web,Yes
+Afternoon,Mobile App,No
+Morning,Web,Yes
+Evening,Phone,Yes
+Afternoon,Phone,Yes
+Morning,Mobile App,Yes
+Evening,Mobile App,Yes
+Evening,Web,Yes
+Evening,Mobile App,Yes
+Afternoon,Mobile App,No
+Afternoon,Phone,Yes
+Morning,Phone,No
+Evening,Web,Yes
+Evening,Mobile App,Yes
+Morning,Mobile App,Yes
+Morning,Phone,Yes
+Morning,Mobile App,Yes
+Evening,Phone,Yes
+Evening,Web,Yes
+Morning,Phone,Yes
+Afternoon,Mobile App,Yes
+Morning,Web,No
+Evening,Phone,No
+Evening,Phone,No
+Evening,Web,No
+Afternoon,Web,Yes
+Morning,Phone,Yes
+Morning,Mobile App,No
+Morning,Phone,Yes
+Evening,Web,Yes
+Evening,Phone,Yes
+Evening,Web,Yes
+Evening,Web,Yes
+Afternoon,Mobile App,No
+Afternoon,Web,Yes
+Evening,Web,Yes
+Evening,Mobile App,No
+Morning,Web,Yes
+Afternoon,Mobile App,Yes
+Morning,Mobile App,Yes
+Evening,Web,Yes
+Afternoon,Web,No
+Morning,Phone,Yes
+Afternoon,Mobile App,No
+Afternoon,Phone,Yes
+Morning,Web,No
+Morning,Phone,No
+Afternoon,Mobile App,No
+Afternoon,Phone,Yes
+Afternoon,Mobile App,No
+Afternoon,Web,Yes
+Evening,Web,Yes
+Afternoon,Mobile App,No
+Afternoon,Web,Yes
+Evening,Web,No
+Morning,Web,Yes
+Morning,Web,Yes
+Morning,Mobile App,Yes
+Afternoon,Phone,Yes
+Afternoon,Phone,Yes
+Afternoon,Web,Yes
+Morning,Phone,Yes
+Morning,Phone,Yes
+Morning,Web,Yes
+Morning,Web,Yes
+Afternoon,Phone,Yes
+Morning,Mobile App,Yes
+Morning,Web,Yes
+Evening,Mobile App,No
+Morning,Phone,No
+Afternoon,Web,Yes
+Afternoon,Mobile App,Yes
+Morning,Web,No
+Afternoon,Phone,Yes
+Evening,Mobile App,Yes
+Evening,Phone,Yes
+Morning,Phone,No
+Evening,Web,Yes
+Afternoon,Mobile App,Yes
+Morning,Phone,No
+Afternoon,Phone,No
+Evening,Mobile App,Yes
+Afternoon,Phone,Yes
+Morning,Phone,No
+Afternoon,Mobile App,Yes
+Morning,Mobile App,Yes
+Morning,Mobile App,Yes
+Morning,Mobile App,No
+Morning,Web,Yes
+Morning,Mobile App,No
+Morning,Web,No
+Afternoon,Web,Yes
+Morning,Web,Yes
+Morning,Phone,Yes
+Evening,Web,Yes
+Afternoon,Web,Yes
+Afternoon,Phone,No
+Morning,Phone,Yes
+Morning,Phone,No
+Morning,Mobile App,Yes
+Morning,Phone,Yes
+Morning,Phone,Yes
+Morning,Web,Yes
+Morning,Phone,Yes
+Morning,Mobile App,Yes
+Afternoon,Phone,Yes
+Morning,Mobile App,Yes
+Morning,Phone,Yes
+Afternoon,Phone,Yes
+Afternoon,Phone,Yes
+Morning,Phone,No
+Afternoon,Mobile App,Yes
+Afternoon,Mobile App,Yes
+Morning,Web,Yes
+Evening,Mobile App,Yes
+Evening,Phone,Yes
+Morning,Web,Yes
+Morning,Web,Yes
+Evening,Web,Yes
+Afternoon,Phone,Yes
+Morning,Mobile App,Yes
+Morning,Phone,Yes
+Morning,Web,No
+Afternoon,Phone,Yes
+Afternoon,Phone,Yes
+Morning,Mobile App,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Web,Yes
+Morning,Phone,Yes
+Morning,Phone,Yes
+Afternoon,Mobile App,Yes
+Evening,Phone,Yes
+Afternoon,Phone,Yes
+Afternoon,Phone,Yes
+Morning,Mobile App,Yes
+Morning,Web,Yes
+Afternoon,Web,No
+Morning,Phone,Yes
+Morning,Web,Yes
+Morning,Mobile App,Yes
+Morning,Mobile App,No
+Morning,Web,Yes
+Morning,Web,Yes
+Morning,Phone,Yes
+Morning,Web,Yes
+Evening,Phone,Yes
+Afternoon,Phone,Yes
+Afternoon,Mobile App,No
+Afternoon,Mobile App,Yes
+Afternoon,Mobile App,Yes
+Morning,Mobile App,No
+Afternoon,Web,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Web,Yes
+Morning,Mobile App,Yes
+Morning,Web,Yes
+Morning,Phone,No
+Morning,Web,Yes
+Afternoon,Web,Yes
+Afternoon,Mobile App,Yes
+Morning,Web,No
+Evening,Phone,No
+Afternoon,Phone,No
+Morning,Mobile App,Yes
+Morning,Phone,Yes
+Morning,Web,Yes
+Morning,Phone,Yes
+Morning,Mobile App,Yes
+Morning,Web,Yes
+Morning,Mobile App,Yes
+Morning,Web,Yes
+Evening,Phone,Yes
+Morning,Mobile App,Yes
+Afternoon,Mobile App,Yes
+Morning,Web,Yes
+Evening,Mobile App,Yes
+Morning,Web,No
+Morning,Web,Yes
+Evening,Web,Yes
+Evening,Web,Yes
+Evening,Phone,No
+Morning,Web,Yes
+Morning,Mobile App,Yes
+Afternoon,Phone,Yes
+Evening,Mobile App,Yes
+Afternoon,Phone,Yes
+Afternoon,Web,Yes
+Morning,Phone,No
+Afternoon,Phone,Yes
+Morning,Mobile App,No
+Morning,Mobile App,Yes
+Morning,Web,Yes
+Afternoon,Phone,No
+Morning,Phone,Yes
+Morning,Phone,Yes
+Afternoon,Web,Yes
+Morning,Web,Yes
+Afternoon,Web,Yes
+Morning,Web,Yes
+Afternoon,Web,Yes
+Afternoon,Mobile App,Yes
+Morning,Phone,Yes
+Morning,Phone,Yes
+Morning,Phone,Yes
+Morning,Phone,Yes
+Evening,Phone,Yes
+Morning,Phone,Yes
+Evening,Phone,No
+Morning,Phone,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Phone,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Web,Yes
+Morning,Phone,No
+Morning,Web,Yes
+Evening,Web,No
+Evening,Web,No
+Evening,Mobile App,No
+Morning,Web,No
+Afternoon,Web,Yes
+Evening,Web,Yes
+Morning,Phone,Yes
+Morning,Phone,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Mobile App,Yes
+Evening,Phone,Yes
+Morning,Mobile App,Yes
+Afternoon,Phone,Yes
+Morning,Web,Yes
+Morning,Web,Yes
+Morning,Mobile App,No
+Evening,Phone,Yes
+Afternoon,Phone,Yes
+Afternoon,Mobile App,Yes
+Morning,Phone,Yes
+Evening,Web,Yes
+Morning,Mobile App,Yes
+Evening,Mobile App,Yes
+Morning,Phone,Yes
+Morning,Mobile App,Yes
+Afternoon,Phone,Yes
+Morning,Phone,Yes
+Afternoon,Phone,Yes
+Afternoon,Phone,Yes
+Morning,Phone,No
+Evening,Mobile App,Yes
+Morning,Web,Yes
+Afternoon,Web,Yes
+Evening,Mobile App,Yes
+Afternoon,Mobile App,Yes
+Morning,Web,Yes
+Evening,Web,No
+Afternoon,Web,Yes
+Morning,Web,Yes
+Morning,Web,Yes
+Afternoon,Phone,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Phone,Yes
+Evening,Web,No
+Afternoon,Web,Yes
+Morning,Web,Yes
+Morning,Phone,No
+Morning,Phone,Yes
+Afternoon,Web,No
+Morning,Phone,Yes
+Afternoon,Phone,No
+Afternoon,Web,Yes
+Evening,Phone,No
+Morning,Mobile App,No
+Evening,Mobile App,Yes
+Morning,Mobile App,No
+Evening,Mobile App,Yes
+Morning,Web,Yes
+Morning,Web,Yes
+Afternoon,Web,Yes
+Morning,Mobile App,Yes
+Morning,Mobile App,Yes
+Afternoon,Phone,Yes
+Afternoon,Phone,No
+Afternoon,Mobile App,No
+Afternoon,Mobile App,Yes
+Afternoon,Mobile App,Yes
+Morning,Mobile App,Yes
+Morning,Phone,Yes
+Morning,Mobile App,Yes
+Evening,Phone,Yes
+Afternoon,Mobile App,Yes
+Morning,Mobile App,No
+Afternoon,Mobile App,Yes
+Evening,Phone,Yes
+Morning,Phone,Yes
+Afternoon,Web,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Web,Yes
+Morning,Web,Yes
+Evening,Phone,Yes
+Evening,Phone,No
+Afternoon,Web,No
+Afternoon,Mobile App,Yes
+Evening,Phone,Yes
+Afternoon,Mobile App,Yes
+Morning,Mobile App,Yes
+Afternoon,Web,Yes
+Afternoon,Web,Yes
+Morning,Web,Yes
+Afternoon,Web,Yes
+Evening,Phone,Yes
+Evening,Phone,No
+Afternoon,Web,No
+Morning,Phone,Yes
+Evening,Web,Yes
+Evening,Mobile App,No
+Morning,Mobile App,Yes
+Evening,Mobile App,No
+Evening,Web,Yes
+Afternoon,Mobile App,No
+Afternoon,Phone,Yes
+Morning,Mobile App,No
+Morning,Mobile App,No
+Morning,Mobile App,Yes
+Evening,Phone,Yes
+Morning,Web,No
+Morning,Phone,Yes
+Morning,Web,No
+Afternoon,Web,Yes
+Evening,Mobile App,Yes
+Morning,Web,Yes
+Morning,Phone,Yes
+Afternoon,Phone,No
+Afternoon,Web,Yes
+Morning,Mobile App,Yes
+Afternoon,Mobile App,Yes
+Morning,Phone,Yes
+Morning,Mobile App,No
+Afternoon,Web,No
+Morning,Web,Yes
+Evening,Phone,No
+Morning,Web,No
+Afternoon,Phone,Yes
+Afternoon,Web,No
+Morning,Phone,Yes
+Afternoon,Mobile App,Yes
+Morning,Web,No
+Evening,Web,Yes
+Morning,Phone,No
+Morning,Phone,No
+Morning,Web,Yes
+Evening,Phone,No
+Afternoon,Web,Yes
+Afternoon,Mobile App,Yes
+Morning,Phone,Yes
+Afternoon,Web,No
+Morning,Mobile App,Yes
+Evening,Mobile App,Yes
+Morning,Web,Yes
+Morning,Phone,Yes
+Morning,Web,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Web,Yes
+Morning,Phone,Yes
+Afternoon,Mobile App,No
+Afternoon,Web,Yes
+Afternoon,Phone,Yes
+Morning,Mobile App,No
+Morning,Phone,Yes
+Afternoon,Mobile App,No
+Morning,Web,Yes
+Morning,Phone,No
+Evening,Mobile App,Yes
+Evening,Phone,Yes
+Morning,Phone,Yes
+Morning,Web,No
+Afternoon,Phone,Yes
+Morning,Mobile App,Yes
+Morning,Mobile App,No
+Morning,Mobile App,No
+Afternoon,Mobile App,Yes
+Afternoon,Web,No
+Morning,Phone,No
+Morning,Web,Yes
+Morning,Phone,Yes
+Afternoon,Phone,Yes
+Morning,Phone,Yes
+Morning,Web,Yes
+Afternoon,Phone,Yes
+Morning,Web,Yes
+Afternoon,Mobile App,Yes
+Morning,Mobile App,Yes
+Morning,Phone,No
+Morning,Web,No
+Afternoon,Mobile App,Yes
+Evening,Web,No
+Evening,Web,Yes
+Morning,Phone,Yes
+Afternoon,Mobile App,Yes
+Morning,Phone,Yes
+Morning,Phone,No
+Evening,Mobile App,Yes
+Morning,Mobile App,Yes
+Morning,Web,Yes
+Morning,Mobile App,Yes
+Morning,Web,Yes
+Morning,Web,Yes
+Afternoon,Web,Yes
+Morning,Mobile App,No
+Evening,Phone,No
+Evening,Web,Yes
+Morning,Phone,No
+Morning,Phone,Yes
+Morning,Mobile App,Yes
+Afternoon,Phone,Yes
+Morning,Phone,Yes
+Afternoon,Mobile App,No
+Morning,Web,Yes
+Afternoon,Phone,Yes
+Morning,Mobile App,Yes
+Morning,Phone,Yes
+Evening,Phone,No
+Afternoon,Web,Yes
+Morning,Phone,Yes
+Evening,Mobile App,Yes
+Afternoon,Phone,Yes
+Evening,Web,Yes
+Afternoon,Web,Yes
+Morning,Mobile App,Yes
+Morning,Web,Yes
+Morning,Phone,No
+Afternoon,Web,No
+Afternoon,Mobile App,Yes
+Morning,Web,Yes
+Morning,Web,Yes
+Evening,Web,No
+Evening,Mobile App,Yes
+Afternoon,Web,Yes
+Morning,Web,Yes
+Morning,Phone,Yes
+Morning,Mobile App,Yes
+Evening,Web,Yes
+Morning,Mobile App,Yes
+Afternoon,Web,Yes
+Morning,Web,Yes
+Afternoon,Web,Yes
+Afternoon,Phone,Yes
+Evening,Phone,Yes
+Morning,Phone,Yes
+Morning,Mobile App,Yes
+Morning,Mobile App,No
+Evening,Phone,Yes
+Evening,Mobile App,Yes
+Afternoon,Web,Yes
+Afternoon,Web,Yes
+Afternoon,Web,Yes
+Morning,Phone,Yes
+Evening,Mobile App,Yes
+Morning,Phone,No
+Morning,Mobile App,Yes
+Afternoon,Web,No
+Morning,Phone,No
+Morning,Mobile App,Yes
+Afternoon,Mobile App,No
+Morning,Web,Yes
+Afternoon,Phone,No
+Morning,Phone,Yes
+Morning,Phone,Yes
+Morning,Web,Yes
+Morning,Phone,Yes
+Afternoon,Web,Yes
+Morning,Web,Yes
+Afternoon,Web,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Phone,Yes
+Evening,Phone,Yes
+Afternoon,Web,No
+Morning,Web,No
+Morning,Phone,No
+Morning,Web,Yes
+Afternoon,Phone,Yes
+Morning,Mobile App,Yes
+Afternoon,Web,No
+Afternoon,Phone,Yes
+Morning,Web,Yes
+Afternoon,Phone,Yes
+Morning,Phone,No
+Morning,Web,Yes
+Afternoon,Mobile App,Yes
+Afternoon,Phone,Yes
+Afternoon,Phone,Yes
+Morning,Phone,Yes
+Morning,Mobile App,Yes
+Evening,Mobile App,Yes
+Afternoon,Web,No
+Afternoon,Mobile App,Yes
+Morning,Web,No
+Afternoon,Web,No
+Morning,Mobile App,Yes
+Morning,Web,Yes
+Evening,Mobile App,Yes
+Morning,Web,No
+Evening,Mobile App,Yes
+Morning,Mobile App,Yes
